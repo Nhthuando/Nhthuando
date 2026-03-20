@@ -58,7 +58,7 @@ const huuThuan = {
 |--------|-------------|------|
 | 🖥️ [**DevBoard**](https://github.com/Nhthuando/devboard) | Freelance job board — JWT auth, RBAC, Stripe escrow | Node.js · Express · Prisma · React |
 | 📋 [**JobTracker**](https://github.com/Nhthuando/JobTracker) | Full-stack job application tracking app | React · Node.js · MySQL |
-| 🌐 [**ProFolio**](https://github.com/Nhthuando/ProFolio) | Platform to create & share developer portfolios | JavaScript |
+| 🏠 [**BHMS**](https://github.com/Nhthuando/BHMS-) | Rental property management — room tracking, contracts & utilities | JavaScript |
 
 ---
 
