@@ -1,31 +1,37 @@
+<div align="right">
+  🌐 Ngôn ngữ:
+  <b>Tiếng Việt</b> |
+  <a href="./README.en.md">English</a>
+</div>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E599&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Huu+Thuan+%F0%9F%91%8B;Aspiring+Backend+Developer;Turning+coffee+into+APIs+%E2%98%95;Building+things%2C+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E599&center=true&vCenter=true&width=650&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+H%E1%BB%AFu+Thu%E1%BA%ADn+%F0%9F%91%8B;Aspiring+Backend+Developer;%22Turning+coffee+into+APIs%22+%E2%98%95;M%E1%BB%97i+ng%C3%A0y+m%E1%BB%99t+commit%2C+m%E1%BB%97i+ng%C3%A0y+ti%E1%BA%BFn+b%E1%BB%99)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Nhthuando&style=flat-square&color=00E599" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Nhthuando&style=flat-square&color=00E599" alt="Lượt xem trang"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Về bản thân
 
 ```javascript
 const huuThuan = {
-  name: "Ngo Huu Thuan",
+  name: "Hữu Thuận",
   role: "Aspiring Backend Developer",
-  status: "CS Student → Building real-world projects",
-  currentProject: "DevBoard — Freelance Job Board",
+  status: "Sinh viên CNTT → Đang xây dựng dự án thực tế",
+  currentProject: "DevBoard — Nền tảng việc làm freelance",
   stack: ["Node.js", "Express", "Prisma", "PostgreSQL", "React"],
-  learning: ["System Design", "Auth Patterns", "Clean Architecture"],
-  funFact: "I debug at midnight and it somehow always works 🌙",
+  dangHoc: ["System Design", "Auth Patterns", "Clean Architecture"],
+  funFact: "Debug lúc nửa đêm và nó lại chạy được 🌙",
   slogan: "Turning coffee into APIs since 2023 ☕"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Công nghệ sử dụng
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -46,42 +52,42 @@ const huuThuan = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Dự án nổi bật
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🖥️ [**DevBoard**](https://github.com/Nhthuando/devboard) | Freelance job board — JWT auth, RBAC, Stripe escrow | Node.js · Express · Prisma · React |
-| 📋 [**JobTracker**](https://github.com/Nhthuando/JobTracker) | Full-stack job application tracking app | React · Node.js · MySQL |
-| 🌐 [**ProFolio**](https://github.com/Nhthuando/ProFolio) | Platform to create & share developer portfolios | JavaScript |
+| Dự án | Mô tả | Công nghệ |
+|-------|-------|-----------|
+| 🖥️ [**DevBoard**](https://github.com/Nhthuando/devboard) | Nền tảng freelance — JWT auth, RBAC, thanh toán Stripe escrow | Node.js · Express · Prisma · React |
+| 📋 [**JobTracker**](https://github.com/Nhthuando/JobTracker) | Ứng dụng theo dõi quá trình ứng tuyển việc làm | React · Node.js · MySQL |
+| 🌐 [**ProFolio**](https://github.com/Nhthuando/ProFolio) | Nền tảng tạo & chia sẻ portfolio cho developer | JavaScript |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Thống kê GitHub
 
 <div align="center">
 
-![Huu Thuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nhthuando&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E599&icon_color=00E599)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nhthuando&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E599&icon_color=00E599&locale=vi)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhthuando&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E599)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nhthuando&theme=tokyonight&hide_border=true&background=0D1117&ring=00E599&fire=00E599&currStreakLabel=00E599)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nhthuando&theme=tokyonight&hide_border=true&background=0D1117&ring=00E599&fire=00E599&currStreakLabel=00E599&locale=vi)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Biểu đồ hoạt động
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nhthuando&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E599&line=00E599&point=FFFFFF)
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Liên hệ
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nhthuando)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuanhuugl@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
@@ -91,6 +97,6 @@ const huuThuan = {
 
 *"First, solve the problem. Then, write the code."*
 
-⭐ Feel free to star repos you find interesting!
+⭐ Nếu thấy dự án hay, đừng quên để lại một ngôi sao nhé!
 
 </div>
