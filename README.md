@@ -58,7 +58,7 @@ const huuThuan = {
 |-------|-------|-----------|
 | 🖥️ [**DevBoard**](https://github.com/Nhthuando/devboard) | Nền tảng freelance — JWT auth, RBAC, thanh toán Stripe escrow | Node.js · Express · Prisma · React |
 | 📋 [**JobTracker**](https://github.com/Nhthuando/JobTracker) | Ứng dụng theo dõi quá trình ứng tuyển việc làm | React · Node.js · MySQL |
-| 🌐 [**ProFolio**](https://github.com/Nhthuando/ProFolio) | Nền tảng tạo & chia sẻ portfolio cho developer | JavaScript |
+| 🏠 [**BHMS**](https://github.com/Nhthuando/BHMS-) | Ứng dụng quản lý nhà trọ — theo dõi phòng, hợp đồng & chi phí | JavaScript |
 
 ---
 
