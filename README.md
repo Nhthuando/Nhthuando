@@ -88,6 +88,7 @@ const huuThuan = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nhthuando)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jasuocanteam1/)
 
 </div>
 
@@ -97,6 +98,5 @@ const huuThuan = {
 
 *"First, solve the problem. Then, write the code."*
 
-⭐ Nếu thấy dự án hay, đừng quên để lại một ngôi sao nhé!
 
 </div>
