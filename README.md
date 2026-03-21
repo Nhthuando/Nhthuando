@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E599&center=true&vCenter=true&width=650&lines=Xin+ch%C3%A0o%2C+t%C3%B4i+l%C3%A0+H%E1%BB%AFu+Thu%E1%BA%ADn+%F0%9F%91%8B;Aspiring+Backend+Developer;%22Turning+coffee+into+APIs%22+%E2%98%95;M%E1%BB%97i+ng%C3%A0y+m%E1%BB%99t+commit%2C+m%E1%BB%97i+ng%C3%A0y+ti%E1%BA%BFn+b%E1%BB%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=FF0090&size=25&duration=1500&pause=1000&color=FF9933&center=true&vCenter=true&width=435&lines=Xin+ch%C3%A0o%2C+t%E1%BB%9B+l%C3%A0+H%E1%BB%AFu+Thu%E1%BA%ADn!;Hi%E1%BB%87n+l%C3%A0+Backend+WebDev+Freelancer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Nhthuando&style=flat-square&color=00E599" alt="Lượt xem trang"/>
 
