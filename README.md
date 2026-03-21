@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=FF0090&size=25&duration=1500&pause=1000&color=FF9933&center=true&vCenter=true&width=435&lines=Xin+ch%C3%A0o%2C+t%E1%BB%9B+l%C3%A0+H%E1%BB%AFu+Thu%E1%BA%ADn!;Hi%E1%BB%87n+l%C3%A0+Backend+WebDev+Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&size=21&duration=2500&pause=1000&color=FF9933&center=true&vCenter=true&width=435&lines=Xin+ch%C3%A0o%2C+t%E1%BB%9B+l%C3%A0+H%E1%BB%AFu+Thu%E1%BA%ADn!;Hi%E1%BB%87n+l%C3%A0+Backend+WebDev+Freelancer;%C4%90%E1%BB%ABng+ng%E1%BA%A7n+ng%E1%BA%A1i+li%C3%AAn+l%E1%BA%A1c+v%E1%BB%9Bi+t%E1%BB%9B!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Nhthuando&style=flat-square&color=00E599" alt="Lượt xem trang"/>
 
