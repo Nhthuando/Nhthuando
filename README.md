@@ -66,8 +66,6 @@ const huuThuan = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nhthuando&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E599&icon_color=00E599&locale=vi)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhthuando&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E599)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nhthuando&theme=tokyonight&hide_border=true&background=0D1117&ring=00E599&fire=00E599&currStreakLabel=00E599&locale=vi)](https://git.io/streak-stats)
