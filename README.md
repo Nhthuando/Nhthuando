@@ -66,7 +66,6 @@ const huuThuan = {
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nhthuando&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E599)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nhthuando&theme=radical&locale=vi)](https://git.io/streak-stats)
 
