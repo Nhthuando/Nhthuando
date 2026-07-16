@@ -16,18 +16,8 @@
 
 ## 👨‍💻 Về bản thân
 
-```javascript
-const huuThuan = {
-  name: "Hữu Thuận",
-  role: "Aspiring Backend Developer",
-  status: "Sinh viên CNTT → Đang xây dựng dự án thực tế",
-  currentProject: "DevBoard — Nền tảng việc làm freelance",
-  stack: ["Node.js", "Express", "Prisma", "PostgreSQL", "React"],
-  dangHoc: ["System Design", "Auth Patterns", "Clean Architecture"],
-  funFact: "Debug lúc nửa đêm và nó lại chạy được 🌙",
-  slogan: "Turning coffee into APIs since 2023 ☕"
-};
-```
+Tớ đang là sinh viên năm 3 ngành Công nghệ phần mềm và là một Full-stack Web Developer. Tớ chuyên nhận thiết kế và phát triển các hệ thống website linh hoạt (từ Landing Page, Corporate Website đến các Web App phức tạp). Với kỹ năng thực chiến từ database đến giao diện người dùng, tớ có thể build các sản phẩm đáp ứng tốt cả về mặt UI/UX lẫn hiệu suất hệ thống.
+Nếu có bất cứ câu hỏi nào, hoặc đơn giản chỉ muốn trò chuyện, đừng ngần ngại liên lạc với tớ!
 
 ---
 
@@ -50,15 +40,6 @@ const huuThuan = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 🚀 Dự án nổi bật
-
-| Dự án | Mô tả | Công nghệ |
-|-------|-------|-----------|
-| 🖥️ [**DevBoard**](https://github.com/Nhthuando/devboard) | Nền tảng freelance — JWT auth, RBAC, thanh toán Stripe escrow | Node.js · Express · Prisma · React |
-| 📋 [**JobTracker**](https://github.com/Nhthuando/JobTracker) | Ứng dụng theo dõi quá trình ứng tuyển việc làm | React · Node.js · MySQL |
-| 🏠 [**BHMS**](https://github.com/Nhthuando/BHMS-) | Ứng dụng quản lý nhà trọ — theo dõi phòng, hợp đồng & chi phí | JavaScript |
 
 ---
 
